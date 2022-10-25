@@ -1,0 +1,8 @@
+xxx6551081:AAHQmQsLum_em9Kj3xwoCAe_CqnAsMXwFk8
+
+
+https://api.telegram.org/botxxx6551081:AAHQmQsLum_em9Kj3xwoCAe_CqnAsMXwFk8/getUpdates
+
+curl -X POST -H 'Content-Type: application/json' -d '{"chat_id": "181173741", "text": "This is a test from qa.guru", "disable_notification": true}' https://api.telegram.org/botxxx6551081:AAHQmQsLum_em9Kj3xwoCAe_CqnAsMXwFk8/sendMessage
+
+java "-DconfigFile=notifications/config.json" -jar notifications/allure-notifications-4.2.1.jar

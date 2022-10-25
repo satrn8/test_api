@@ -36,3 +36,5 @@ def test_update_patch():
 def test_delayed_response():
     response = reqres().get('/api/users?delay=3')
     assert response.status_code == 200
+
+    

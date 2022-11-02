@@ -9,3 +9,7 @@
 Отчет о прохождении в Telegram-бот
 
 ![image](https://user-images.githubusercontent.com/107774229/199337055-5756ba67-8b4a-413f-af64-ee5b5915713f.png)
+
+ * <h2>Тест создания пользователя</h2> 
+
+![image](https://user-images.githubusercontent.com/107774229/199587904-6e0992bd-778c-4da4-8ac9-970787931bb9.png)

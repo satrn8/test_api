@@ -13,3 +13,13 @@
  * <h2>Тест создания пользователя</h2> 
 
 ![image](https://user-images.githubusercontent.com/107774229/199587904-6e0992bd-778c-4da4-8ac9-970787931bb9.png)
+
+
+![image](https://user-images.githubusercontent.com/107774229/199588528-845b1a42-3ed0-42d7-9dbf-66b3d41e0908.png)
+
+![image](https://user-images.githubusercontent.com/107774229/199588593-f77f5513-f5a3-4fd3-9083-729ae4346e2a.png)
+
+![image](https://user-images.githubusercontent.com/107774229/199588675-898d3a71-0afd-4f67-afb9-df0539651bbf.png)
+
+![image](https://user-images.githubusercontent.com/107774229/199588902-93045a2f-c184-4f7b-86cb-fd4e2045dc1d.png)
+

@@ -1,6 +1,4 @@
-# test_api
-
-* <h1>API тесты</h1>
+# <h1>API тесты</h1>
 
 <img src="https://user-images.githubusercontent.com/107774229/198146350-1c541de9-3ef0-429a-a9cb-96aae4444891.png" width="25"> <a href="https://jenkins.autotests.cloud/job/001_satrn8_lesson23_test_api/" target="_blank">Jenkins</a>
 

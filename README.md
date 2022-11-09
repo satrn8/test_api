@@ -1,4 +1,26 @@
 # <h1>API тесты</h1>
+____________________________________________________________________________________________________
+Установка
+
+```
+git clone https://github.com/satrn8/test_api.git
+```
+Запуск локально
+```
+pytest .\tests\test_reqres.py --alluredir reports\
+```
+Запуск удаленно
+```
+python -m venv .venv
+source .venv/bin/activate
+pip install -r requirements.txt
+pytest .
+```
+Генерация отсчета локально
+```
+allure serve .\reports\ 
+```
+________________________________________________________________________________________________________
 
 <img src="https://user-images.githubusercontent.com/107774229/198146350-1c541de9-3ef0-429a-a9cb-96aae4444891.png" width="25"> <a href="https://jenkins.autotests.cloud/job/001_satrn8_lesson23_test_api/" target="_blank">Jenkins</a>
 
